@@ -1,0 +1,6 @@
+// Define versioning macros.
+#define Keystroke_Version @keystroke_VERSION@
+#define Keystroke_Version_Major @keystroke_VERSION_MAJOR@ 
+#define Keystroke_Version_Minor @keystroke_VERSION_MINOR@
+#define Keystroke_Version_Patch @keystroke_VERSION_PATCH@
+#define Keystroke_Version_Tweak @keystroke_VERSION_TWEAK@
